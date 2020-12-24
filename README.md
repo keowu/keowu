@@ -1,58 +1,56 @@
-> # Bem vindo a meu Perfil / Welcome to my Profile 😄 
+<p align="center">
+  <a href="https://www.joaovitor.gq"><img src="https://i.pinimg.com/originals/17/ea/66/17ea661f50be3aadeb7833ba446604d4.gif" alt="edisonlee55 Banner"></a>
+</p>
 
-### English
-I'm João but I have a nickname Keowu, my focus is low-level stuff, with software and reverse engineering with binary reconstruction or analyzing other people's codes, my hobby is developing for web (yes, it's cool), I'm co-founder of @Fluxuss, a research and development company of innovative ideas.
+<h1 align="center">I'm <a href="https://www.joaovitor.gq">João Vitor(@Keowu)</a>!</h1>
+<h1 align="center">Bem vindo a meu Perfil / Welcome to my Profile 😄</h1>
+<p align="center">Technology researcher focused on reverse engineering and reconstruction of PE, ELF binaries, protector virtualization and automotive safety algorithms.</p>
 
-### PT-BR
-Sou João mas tenho apelido de Keowu, meu foco são coisas de baixo nível, com software e engenharia reversa com reconstrução de binários ou analise de códigos de outras pessoas, meu hobby é desenvolver para web(sim, é legal), sou co-founder da @Fluxuss, uma empresa de pesquisa e desenvolvimento de ideias inovadoras.
+<p align="center">
+  <a href="https://github.com/Keowu"><img src="https://github-profile-trophy.vercel.app/?username=keowu&theme=flat" alt="Keowu github stats"></a>
+</p>
 
-## Linguagens/Languages/Script's/TOOL'S
+<p align="center">
+  <a href="https://github.com/Keowu"><img src="https://github-readme-stats.vercel.app/api?username=keowu&show_icons=true" alt="Keowu github stats"></a>
+</p>
 
-- Assembly x86/x64
-- C
-- Python(DEV FOR LOVE)
-- JavaScript(For Hobby)
-- Web(HTML, CSS, PHP)
-- Pascal(For Hobby)
-- Java
-- IDA
-- Ghidra
-- X64DBG & OLLYDBG
+<p align="center">
+  <h1 align="center">Best Projects</h1>
+  <strong><a href="https://github.com/keowu/RDTSC_Calculator">RDTSC Calculator</a></strong> |
+  <strong><a href="https://github.com/keowu/hakudetector">Haku Detector</a></strong> |
+  <strong><a href="https://github.com/keowu/spotify-ads-cracker">A ADS/PREMIUM Spotify Cracker</a></strong> |
+  <strong><a href="https://github.com/keowu?tab=repositories">MORE</a></strong> |
+</p>
 
+<p align="center">My focus is on low-level things, with software and reverse engineering with binary reconstruction or other people's code analysis and extraction of security (seed/key) algorithms from automotive ECU's through reverse assembly engineering, and my hobby is study and work at my startup I'm a co-founder <a href="https://github.com/Fluxuss-Development">@fluxuss</a>.</p>
 
-## Alguns de meus projetos que fiz como hobby e com carinho
+<h1 align="center">let's talk about skills?</h1>
 
-### RDTSC CALCULATOR
-A simple hook for reverse engineering on x86 processors, to be used with ollydbg, x64dbg and the like.
+- C++ (ISO - GOOGLE C++ STYLE)
+- ASSEMBLY X86/X64
+- ARM X86/X64
+- Smali
+- Python(My soon)
+- Javascript
+- Pascal
+- SQL & No SQL
+- Java(On the way to learn with the best teachers)
+- Malware Reverse Engineering
+- Anti-cracking security check on company software
 
-[RDTSC_Calculator](https://github.com/keowu/RDTSC_Calculator)
+<p align="center">
+  <a href="https://github.com/Keowu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keowu&layout=compact&hide=html,%20css" alt="Keowu github stats"></a>
+</p>
 
-### Spotify AD'S Cracker
-A ADS/PREMIUM Spotify Cracker.
-[Spotify-Ads-Cracker](https://github.com/keowu/spotify-ads-cracker)
+<h1 align="center">Books I Admire: </h1>
 
-### VIBEME
-Vença seus maus momentos usando nossa incrível coleção de memes, projete você em situações engraçadas, ou com vibe de alegria.
-[Vibeme](https://vibeme.joaovitor.gq)
+- Windows Kernel Programming (Pavel Yosifovich) - Plan to read.
+- The Art of Assembly Language (Randall Hyde)
+- Automatize Tarefas Maçantes Com Python - Programação Prática Para Verdadeiros Iniciantes (Al Sweigart)
+- Practical Malware Analysis - The Hands-On Guide to Dissecting Malicious Software (Andrew Honig, Michael Sikorski), the first technology book that I read in my life in 2014.
+- Reversing: Secrets of Reverse Engineering (Eldad Eilam) - Plan to read.
+- Learning Malware Analysis: Explore the concepts, tools, and techniques to analyze and investigate Windows malware (Monnappa K A), Currently reading.
 
-### Fluxuss OS
+<h1 align="center">Life's philosophy: </h1>
+<p align="center">"Só sei que nada sei, e o fato de saber isso, me coloca em vantagem sobre aqueles que acham que sabem alguma coisa." (Socrates)</p>
 
-Fluxuss OS, Um sistema operacional baseado em linux, para cientistas da computação, desenvolvedores independentes, hackermans e afins, uma engenharia reversa do Ubuntu, feito com trocas de experiência com um pessoal legal.
-
-[Fluxuss OS WEB-SITE](https://fluxuss-development.github.io/website_fluxussos/)
-
-### Contribute with me/Contribua Comigo
-
-#### English
-Add new functions to my projects, or leave comments, it helps in my learning, after all as developers we need to study always, and always we update, leave a pop in the project that you find most interesting, it helps other people also see it, and improve or find bugs.
-
-#### Portuguese
-Adicione novas funções a meus projetos, ou deixe comentarios, isso ajuda em meu aprendizado, afinal como desenvolvedores precisamos estudar sempre, e sempre nós atualizar, deixe uma estrala no projeto que você achar mais interessante, isso ajuda que outras pessoas também o vejam, e melhorem ou achem bugs.
-
-### Siga-me/Follow me
-
-#### English
-If you want to program or be part of fluxuss and help us grow, or gain an experience follow me here at github, together we have a lot of knowledge to share.
-
-#### Portuguese
-Caso deseja programar ou fazer parte da fluxuss e ajudar em nosso crescimento, ou ganhar uma experiencia me siga aqui no github, juntos temos muito conhecimento a partilhar.
