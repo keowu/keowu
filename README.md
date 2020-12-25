@@ -54,3 +54,6 @@
 <h1 align="center">Life's philosophy: </h1>
 <p align="center">"Só sei que nada sei, e o fato de saber isso, me coloca em vantagem sobre aqueles que acham que sabem alguma coisa." (Socrates)</p>
 
+<p align="center">
+  <a href="https://github.com/Keowu"><img src="https://komarev.com/ghpvc/?username=keowu" alt="Keowu github Views"></a>
+</p>
